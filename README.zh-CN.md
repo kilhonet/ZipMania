@@ -240,7 +240,7 @@ zm l backup.7z.001                                                          列�
 
 ## 更新
 
-ZipMania **不会**自动更新。启动时会检查是否有新版本并仅作提示；新版本经内部验证后手动发布，并在 [ZipMania 页面](https://v2.kilho.net/zipmania)公告。请参阅[更新政策说明](https://en.kilho.net/archives/notice/2940)。
+ZipMania **不会**自动更新。启动时会检查是否有新版本并仅作提示；新版本经内部验证后手动发布，并在 [ZipMania 页面](https://kilho.net/zipmania)公告。请参阅[更新政策说明](https://en.kilho.net/archives/notice/2940)。
 
 **版本历史**
 
@@ -273,7 +273,7 @@ ZipMania 程序是**免费软件**。无论在公司、家庭、政府机关还�
 
 ## 链接
 
-- 网站：<https://v2.kilho.net/zipmania>
+- 网站：<https://kilho.net/zipmania>
 - 源码：<https://github.com/newkilho/ZipMania>
 - 论坛：<https://groups.google.com/g/kilhonet>
 - X (Twitter)：<https://www.twitter.com/kilhonet>

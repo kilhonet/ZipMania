@@ -240,7 +240,7 @@ As caixas **Fechar janela** e **Abrir pasta** das janelas Novo arquivo e Extrair
 
 ## Atualizações
 
-O ZipMania **não** se atualiza sozinho. Ao iniciar, ele verifica se há uma nova versão e apenas avisa; novas versões são publicadas manualmente após verificação interna e anunciadas na [página do ZipMania](https://v2.kilho.net/zipmania). Veja o [aviso sobre a política de atualizações](https://en.kilho.net/archives/notice/2940).
+O ZipMania **não** se atualiza sozinho. Ao iniciar, ele verifica se há uma nova versão e apenas avisa; novas versões são publicadas manualmente após verificação interna e anunciadas na [página do ZipMania](https://kilho.net/zipmania). Veja o [aviso sobre a política de atualizações](https://en.kilho.net/archives/notice/2940).
 
 **Histórico de versões**
 
@@ -273,7 +273,7 @@ O código-fonte é licenciado sob a **Apache License 2.0**; os crates reutilizá
 
 ## Links
 
-- Site: <https://v2.kilho.net/zipmania>
+- Site: <https://kilho.net/zipmania>
 - Código-fonte: <https://github.com/newkilho/ZipMania>
 - Fórum: <https://groups.google.com/g/kilhonet>
 - X (Twitter): <https://www.twitter.com/kilhonet>

@@ -238,7 +238,7 @@ zm l backup.7z.001                                                          분�
 
 ## 업데이트
 
-집매니아는 자동으로 업데이트하지 **않습니다**. 실행할 때 새 버전이 있는지 확인해 안내만 하며, 새 버전은 내부 검증 후 수동으로 배포되고 [집매니아 페이지](https://v2.kilho.net/zipmania)에 공지됩니다. [업데이트 정책 안내](https://kilho.net/archives/notice/2940)를 참고하세요.
+집매니아는 자동으로 업데이트하지 **않습니다**. 실행할 때 새 버전이 있는지 확인해 안내만 하며, 새 버전은 내부 검증 후 수동으로 배포되고 [집매니아 페이지](https://kilho.net/zipmania)에 공지됩니다. [업데이트 정책 안내](https://kilho.net/archives/notice/2940)를 참고하세요.
 
 **버전 이력**
 
@@ -271,7 +271,7 @@ cargo test -p zipmania-archive
 
 ## 링크
 
-- 웹사이트: <https://v2.kilho.net/zipmania>
+- 웹사이트: <https://kilho.net/zipmania>
 - 소스: <https://github.com/newkilho/ZipMania>
 - 포럼: <https://groups.google.com/g/kilhonet>
 - X (Twitter): <https://www.twitter.com/kilhonet>

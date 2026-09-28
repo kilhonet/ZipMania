@@ -240,7 +240,7 @@ The **Close window** and **Open folder** checkboxes in the New Archive and Extra
 
 ## Updates
 
-ZipMania does **not** update itself. It checks for a new version at startup and only lets you know; new versions are published manually after internal verification and announced on the [ZipMania page](https://v2.kilho.net/zipmania). See the [update policy notice](https://en.kilho.net/archives/notice/2940).
+ZipMania does **not** update itself. It checks for a new version at startup and only lets you know; new versions are published manually after internal verification and announced on the [ZipMania page](https://kilho.net/zipmania). See the [update policy notice](https://en.kilho.net/archives/notice/2940).
 
 **Version history**
 
@@ -273,7 +273,7 @@ The source code is licensed under the **Apache License 2.0**; the reusable crate
 
 ## Links
 
-- Website: <https://v2.kilho.net/zipmania>
+- Website: <https://kilho.net/zipmania>
 - Source: <https://github.com/newkilho/ZipMania>
 - Forum: <https://groups.google.com/g/kilhonet>
 - X (Twitter): <https://www.twitter.com/kilhonet>

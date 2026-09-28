@@ -240,7 +240,7 @@ zm l backup.7z.001                                                          分�
 
 ## 更新
 
-ZipMania は自動更新を**行いません**。起動時に新しいバージョンがあるか確認して案内するだけで、新しいバージョンは内部検証を経て手動で配布され、[ZipMania ページ](https://v2.kilho.net/zipmania)で告知されます。[更新ポリシーのお知らせ](https://en.kilho.net/archives/notice/2940)もご覧ください。
+ZipMania は自動更新を**行いません**。起動時に新しいバージョンがあるか確認して案内するだけで、新しいバージョンは内部検証を経て手動で配布され、[ZipMania ページ](https://kilho.net/zipmania)で告知されます。[更新ポリシーのお知らせ](https://en.kilho.net/archives/notice/2940)もご覧ください。
 
 **バージョン履歴**
 
@@ -273,7 +273,7 @@ ZipMania プログラムは**フリーウェア**です。家庭、職場、学�
 
 ## リンク
 
-- ウェブサイト: <https://v2.kilho.net/zipmania>
+- ウェブサイト: <https://kilho.net/zipmania>
 - ソース: <https://github.com/newkilho/ZipMania>
 - フォーラム: <https://groups.google.com/g/kilhonet>
 - X (Twitter): <https://www.twitter.com/kilhonet>

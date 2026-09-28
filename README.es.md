@@ -240,7 +240,7 @@ Las casillas **Cerrar ventana** y **Abrir carpeta** de las ventanas Nuevo archiv
 
 ## Actualizaciones
 
-ZipMania **no** se actualiza solo. Al iniciarse comprueba si hay una versión nueva y solo te avisa; las versiones nuevas se publican manualmente tras una verificación interna y se anuncian en la [página de ZipMania](https://v2.kilho.net/zipmania). Consulta el [aviso sobre la política de actualizaciones](https://en.kilho.net/archives/notice/2940).
+ZipMania **no** se actualiza solo. Al iniciarse comprueba si hay una versión nueva y solo te avisa; las versiones nuevas se publican manualmente tras una verificación interna y se anuncian en la [página de ZipMania](https://kilho.net/zipmania). Consulta el [aviso sobre la política de actualizaciones](https://en.kilho.net/archives/notice/2940).
 
 **Historial de versiones**
 
@@ -273,7 +273,7 @@ El código fuente se publica bajo la **Apache License 2.0**; los crates reutiliz
 
 ## Enlaces
 
-- Sitio web: <https://v2.kilho.net/zipmania>
+- Sitio web: <https://kilho.net/zipmania>
 - Código fuente: <https://github.com/newkilho/ZipMania>
 - Foro: <https://groups.google.com/g/kilhonet>
 - X (Twitter): <https://www.twitter.com/kilhonet>
