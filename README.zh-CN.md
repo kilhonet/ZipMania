@@ -263,7 +263,7 @@ cargo test -p zipmania-archive
 
 ## 参与贡献
 
-欢迎通过 GitHub Issue 或[论坛](https://groups.google.com/g/kilhonet)提交错误报告和建议。
+欢迎通过 GitHub Issue 或[论坛](https://kilho.top/forum/qna)提交错误报告和建议。
 
 ## 许可证
 
@@ -275,7 +275,7 @@ ZipMania 程序是**免费软件**。无论在公司、家庭、政府机关还�
 
 - 网站：<https://kilho.net/zipmania>
 - 源码：<https://github.com/newkilho/ZipMania>
-- 论坛：<https://groups.google.com/g/kilhonet>
+- 论坛：<https://kilho.top/forum/qna>
 - X (Twitter)：<https://www.twitter.com/kilhonet>
 
 © KILHO.NET

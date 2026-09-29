@@ -263,7 +263,7 @@ L'application (`app/`) dépend d'un moteur graphique maison et de bibliothèques
 
 ## Contribuer
 
-Les rapports de bugs et les suggestions sont les bienvenus via les issues GitHub ou le [forum](https://groups.google.com/g/kilhonet).
+Les rapports de bugs et les suggestions sont les bienvenus via les issues GitHub ou le [forum](https://kilho.top/forum/qna).
 
 ## Licence
 
@@ -275,7 +275,7 @@ Le code source est publié sous **Apache License 2.0** ; les crates réutilisabl
 
 - Site web : <https://kilho.net/zipmania>
 - Code source : <https://github.com/newkilho/ZipMania>
-- Forum : <https://groups.google.com/g/kilhonet>
+- Forum : <https://kilho.top/forum/qna>
 - X (Twitter) : <https://www.twitter.com/kilhonet>
 
 © KILHO.NET

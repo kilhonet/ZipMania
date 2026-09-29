@@ -261,7 +261,7 @@ cargo test -p zipmania-archive
 
 ## 기여
 
-버그 제보와 제안은 GitHub 이슈나 [포럼](https://groups.google.com/g/kilhonet)으로 보내 주세요.
+버그 제보와 제안은 GitHub 이슈나 [포럼](https://kilho.top/forum/qna)으로 보내 주세요.
 
 ## 라이선스
 
@@ -273,7 +273,7 @@ cargo test -p zipmania-archive
 
 - 웹사이트: <https://kilho.net/zipmania>
 - 소스: <https://github.com/newkilho/ZipMania>
-- 포럼: <https://groups.google.com/g/kilhonet>
+- 포럼: <https://kilho.top/forum/qna>
 - X (Twitter): <https://www.twitter.com/kilhonet>
 
 © KILHO.NET

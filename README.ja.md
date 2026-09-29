@@ -263,7 +263,7 @@ cargo test -p zipmania-archive
 
 ## 貢献
 
-バグ報告や提案は GitHub の Issue か[フォーラム](https://groups.google.com/g/kilhonet)へお寄せください。
+バグ報告や提案は GitHub の Issue か[フォーラム](https://kilho.top/forum/qna)へお寄せください。
 
 ## ライセンス
 
@@ -275,7 +275,7 @@ ZipMania プログラムは**フリーウェア**です。家庭、職場、学�
 
 - ウェブサイト: <https://kilho.net/zipmania>
 - ソース: <https://github.com/newkilho/ZipMania>
-- フォーラム: <https://groups.google.com/g/kilhonet>
+- フォーラム: <https://kilho.top/forum/qna>
 - X (Twitter): <https://www.twitter.com/kilhonet>
 
 © KILHO.NET
