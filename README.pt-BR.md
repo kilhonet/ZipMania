@@ -48,7 +48,7 @@ O ZipMania pode ser usado como aplicativo portátil: descompacte em qualquer lug
 
 ## Como usar
 
-### Fluxo básico
+### Primeiros passos
 
 **Extrair**
 

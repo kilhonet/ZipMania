@@ -48,7 +48,7 @@ ZipMania peut être utilisé en version portable : décompressez-le où vous vou
 
 ## Utilisation
 
-### Déroulement de base
+### Premiers pas
 
 **Extraire**
 

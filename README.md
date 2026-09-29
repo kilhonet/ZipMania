@@ -48,7 +48,7 @@ ZipMania can be used as a portable app: unzip anywhere and run `ZipMania.exe`. S
 
 ## Usage
 
-### Basic flow
+### Getting started
 
 **Extracting**
 

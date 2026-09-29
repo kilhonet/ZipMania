@@ -48,7 +48,7 @@ ZipMania puede usarse como aplicación portátil: descomprime en cualquier lugar
 
 ## Uso
 
-### Flujo básico
+### Primeros pasos
 
 **Extraer**
 
