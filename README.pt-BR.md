@@ -9,7 +9,6 @@
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%2F%2011%20x64-0078D4)
 ![License](https://img.shields.io/badge/license-Freeware-brightgreen)
 ![Source](https://img.shields.io/badge/source-Apache%202.0-lightgrey)
-![Version](https://img.shields.io/badge/version-0.9.9-blue)
 [![Download](https://img.shields.io/badge/download-kilho.net-orange)](https://down.kilho.net/zipmania?lang=pt)
 
 ![Captura de tela do ZipMania](images/zipmania-en.webp)
