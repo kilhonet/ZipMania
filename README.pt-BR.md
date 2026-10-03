@@ -242,15 +242,6 @@ As caixas **Fechar janela** e **Abrir pasta** das janelas Novo arquivo e Extrair
 
 O ZipMania **não** se atualiza sozinho. Ao iniciar, ele verifica se há uma nova versão e apenas avisa; novas versões são publicadas manualmente após verificação interna e anunciadas na [página do ZipMania](https://kilho.net/zipmania). Veja o [aviso sobre a política de atualizações](https://en.kilho.net/archives/notice/2940).
 
-**Histórico de versões**
-
-| Versão | Data | Notas |
-|---|---|---|
-| 0.9.9 | 2026-09-21 | Reconstruído sobre o próprio mecanismo gráfico — inicialização e interface cerca de 9× mais rápidas, roda sem componentes extras, corrige problemas de inicialização e atrasos da interface em alguns ambientes |
-| 0.9.8 | 2026-09-18 | Reformulação da linha de comando — opções compatíveis com 7-Zip/Bandizip, novo `zm.exe`, comandos de extrair/listar/testar, verificar e excluir originais após compactar, adicionar a arquivos existentes, extrair cada um em sua pasta, escolha de sobrescrever/pular/renomear, progresso, velocidade e tempo restante |
-| 0.9.6 | 2026-09-16 | Arquivos divididos, abrir arquivos divididos pela primeira parte, compactação silenciosa a partir de programas externos, sem arquivos incompletos após cancelamento ou falha |
-| 0.9.5 | 2026-09-10 | Menu do Explorador mais confiável, progresso com contagem de falhas e ausências, abrir a pasta de resultado ao terminar, navegação de pastas mais fácil |
-
 ## Compilar a partir do código-fonte
 
 O código é público em [github.com/newkilho/ZipMania](https://github.com/newkilho/ZipMania) (Rust 1.88 ou superior). O mecanismo de arquivos, `crates/zipmania-archive`, compila e testa somente com o repositório:

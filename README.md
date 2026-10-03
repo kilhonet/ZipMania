@@ -242,15 +242,6 @@ The **Close window** and **Open folder** checkboxes in the New Archive and Extra
 
 ZipMania does **not** update itself. It checks for a new version at startup and only lets you know; new versions are published manually after internal verification and announced on the [ZipMania page](https://kilho.net/zipmania). See the [update policy notice](https://en.kilho.net/archives/notice/2940).
 
-**Version history**
-
-| Version | Date | Notes |
-|---|---|---|
-| 0.9.9 | 2026-09-21 | Rebuilt on its own GUI engine — launch and interface about 9× faster, runs without extra components, fixes launch issues and interface delays in some environments |
-| 0.9.8 | 2026-09-18 | Command line overhaul — 7-Zip/Bandizip-compatible options, new `zm.exe`, extract/list/test commands, verify and delete sources after compressing, add to existing archives, extract each to its own folder, overwrite/skip/rename choice, progress, speed and time remaining |
-| 0.9.6 | 2026-09-16 | Split archives, open split archives from the first part, silent compression from external programs, no incomplete files left after a cancel or failure |
-| 0.9.5 | 2026-09-10 | More reliable Explorer menu, progress with failed and missing counts, open the result folder when done, easier folder browsing |
-
 ## Building from Source
 
 The source is public at [github.com/newkilho/ZipMania](https://github.com/newkilho/ZipMania) (Rust 1.88 or later). The archive engine, `crates/zipmania-archive`, builds and tests from the repository alone:

@@ -242,15 +242,6 @@ Les cases **Fermer la fenêtre** et **Ouvrir le dossier** des fenêtres Nouvelle
 
 ZipMania **ne** se met **pas** à jour tout seul. Au démarrage, il vérifie s'il existe une nouvelle version et se contente de vous prévenir ; les nouvelles versions sont publiées manuellement après vérification interne et annoncées sur la [page ZipMania](https://kilho.net/zipmania). Consultez l'[avis sur la politique de mise à jour](https://en.kilho.net/archives/notice/2940).
 
-**Historique des versions**
-
-| Version | Date | Notes |
-|---|---|---|
-| 0.9.9 | 2026-09-21 | Reconstruit sur son propre moteur graphique — démarrage et interface environ 9× plus rapides, fonctionne sans composants supplémentaires, corrige des problèmes de lancement et des lenteurs d'interface dans certains environnements |
-| 0.9.8 | 2026-09-18 | Refonte de la ligne de commande — options compatibles 7-Zip/Bandizip, nouveau `zm.exe`, commandes extraire/lister/tester, vérification et suppression des sources après compression, ajout à des archives existantes, extraction de chacune dans son dossier, choix écraser/ignorer/renommer, progression, vitesse et temps restant |
-| 0.9.6 | 2026-09-16 | Archives fractionnées, ouverture des archives fractionnées depuis la première partie, compression silencieuse depuis des programmes externes, plus de fichiers incomplets après annulation ou échec |
-| 0.9.5 | 2026-09-10 | Menu de l'Explorateur plus fiable, progression avec nombre d'échecs et de fichiers manquants, ouverture du dossier de résultat à la fin, navigation dans les dossiers facilitée |
-
 ## Compiler depuis les sources
 
 Le code source est public sur [github.com/newkilho/ZipMania](https://github.com/newkilho/ZipMania) (Rust 1.88 ou plus récent). Le moteur d'archives, `crates/zipmania-archive`, se compile et se teste avec le seul dépôt :
